@@ -67,6 +67,12 @@ module.exports = {
         'Tasker is an application for Android which performs tasks based user-defined automation.',
       color: '#ffb345',
     },
+    mentalhealth: {
+      name: 'Mental Health',
+      description:
+        'Mental health is the level of psychological well-being or an absence of mental illness.',
+      color: '#7d44a1',
+    },
     // typescript: {
     //   name: 'TypeScript',
     //   description:
