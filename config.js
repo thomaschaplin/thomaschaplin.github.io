@@ -38,12 +38,12 @@ module.exports = {
     //     'JavaScript is an object-oriented programming language used alongside HTML and CSS to give functionality to web pages.',
     //   color: '#f0da50',
     // },
-    // nodejs: {
-    //   name: 'Node.js',
-    //   description:
-    //     'Node.js is a tool for executing JavaScript in a variety of environments.',
-    //   color: '#90c53f',
-    // },
+    nodejs: {
+      name: 'Node.js',
+      description:
+        'Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside a web browser.',
+      color: '#90c53f',
+    },
     android: {
       name: 'Android',
       description:
