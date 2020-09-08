@@ -1,0 +1,11 @@
+{
+  "expireTime": 9007200854317866000,
+  "key": "0d6be6f2f5f65be8222c8544af66a5a9{\"duotone\":false,\"grayscale\":false,\"rotate\":0,\"trim\":false,\"toFormat\":\"png\",\"toFormatBase64\":\"\",\"cropFocus\":17,\"fit\":\"cover\",\"width\":20,\"height\":6}",
+  "val": {
+    "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAIAAABM9SnKAAAACXBIWXMAAAsSAAALEgHS3X78AAABEElEQVQY032PTW7CMBCFcxsQooBJQkKJS5xk8mOnNQqpsSksEqkbqiqLnoItK9LTdkp3rdRvJMse+c17Y00mk8FgMBqNhsMhXvA5+810Tpy0DI5t9bjJnAWRT5JSij+tIAhOp7eqqpqm6boOu+Px+I/YZrCsdZkVkX+/gATCMCSEWJzz/vN6Pp8vl0vf90opHGnbNp7TH2ZYcwZ+bUSaR+5inkKKlt/O/tKrjdRa7/f73W5njGnbVgiBes/zXNclZPZA15UqXk8vSm+yItlua7RcrVaW4zgJJFEUMcbiOAaAPM/jG9jEeKgHyDIRHptnueEho6Uo+Q0Lc939C+5Mg7U6iPePxhy2BQejjZQSc30BiCNc+RwTojsAAAAASUVORK5CYII=",
+    "width": 20,
+    "height": 6,
+    "aspectRatio": 3.3333333333333335,
+    "originalName": "nvm.png"
+  }
+}

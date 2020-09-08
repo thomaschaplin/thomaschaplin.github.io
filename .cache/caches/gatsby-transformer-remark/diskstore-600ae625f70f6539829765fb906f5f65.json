@@ -1,0 +1,5 @@
+{
+  "expireTime": 9007200854251270000,
+  "key": "transformer-remark-markdown-html-44e85730660653d7f95000e82e1c732e-gatsby-remark-imagesgatsby-remark-external-linksgatsby-remark-prismjs-",
+  "val": "<h1>What is nvm? 🤔</h1>\n<h2>The definition…</h2>\n<p><em>nvm is a version manager for node.js, designed to be installed per-user, and invoked per-shell. nvm works on any POSIX-compliant shell (sh, dash, ksh, zsh, bash), in particular on these platforms: unix, macOS, and windows WSL.</em></p>"
+}

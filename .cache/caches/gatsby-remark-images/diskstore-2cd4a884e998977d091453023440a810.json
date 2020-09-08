@@ -1,0 +1,11 @@
+{
+  "expireTime": 9007200849225658000,
+  "key": "09e073d472370653293cc2f41db3b772{\"duotone\":false,\"grayscale\":false,\"rotate\":0,\"toFormat\":\"png\",\"toFormatBase64\":\"\",\"width\":20,\"height\":8}",
+  "val": {
+    "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAIAAAB2/0i6AAAACXBIWXMAAAsSAAALEgHS3X78AAABhUlEQVQY011QS0tCURD291XQxgIXLVrYol0QRCVmGRIt8oGUmt7s2i0js6hNRQ+KUgIpKIqgCCJLe2ma93Ge0/GaUA3M8M2c72POfBYQwUUyYDXAOnBuTsxqvjShCf40YKkXik5z+Y3kib7iZwdLvFT8rRdR1UFFTY1eA4Ibc4vISnbX7n/sjNBsTIH4AFrx8mqpQaUMpGPaLRk9CbJ9rsLRMl6coOtBnr81xdUPsuiRo4ee8EVB9vGkh0gOerbHTPXWJW0LoK6oYYtgq698HZ2GhRFNcpLUFOiqhT3dsYUxbd71HHEUI45XaRTHnfQoVVENon8GdnF7EA2kcJ+itwbwWjj9Fuq/D7u+5lzw8iA2l8RmXXarifGa7NYUD4oNsfN98yyyc0Vb/MgWNjpC2Oot38wGIOE0Yg6S8oKh1W9muW0SHaTyKE2MEWmYrvp47bPhD+OgZKk9bvQqZP9Sg8wqSU7SzRAv3P8YJjjsKkM2ZkjaLz4Mlfd/biPCCWu2GAl+A34DhEWWNgkOt9YAAAAASUVORK5CYII=",
+    "width": 20,
+    "height": 8,
+    "aspectRatio": 2.5,
+    "originalName": "circles.png"
+  }
+}

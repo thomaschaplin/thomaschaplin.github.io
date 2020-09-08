@@ -1,0 +1,5 @@
+{
+  "expireTime": 9007200854251508000,
+  "key": "transformer-remark-markdown-html-34cef76429125c14cd2ca0ed48d3c597-gatsby-remark-imagesgatsby-remark-external-linksgatsby-remark-prismjs-",
+  "val": "<h1>What is nvm? 🤔</h1>\n<p><em>nvm is a version manager for node.js, designed to be installed per-user, and invoked per-shell. nvm works on any POSIX-compliant shell (sh, dash, ksh, zsh, bash), in particular on these platforms: unix, macOS, and windows WSL.</em></p>\n<h1>Why should I use nvm? 🤔</h1>\n<p>If you’re using multiple versions for each of your projects, you might use the nvm use command every time you need to switch. This gets old very fast and nvm doesn’t have a native solution for this problem.</p>\n<p>The NVM documentation has a dedicated section for this. You can go and read them there or continue reading for a curated version.</p>"
+}
