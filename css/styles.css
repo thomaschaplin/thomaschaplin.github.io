@@ -28,8 +28,23 @@ html {
   }
 }
 
+@keyframes bounce {
+  0% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(-15px);
+  }
+}
+
 .icons-social i {
   font-size: 3em;
+  color: black;
+  padding: 10px;
+}
+
+.icons-social i:hover {
+  animation: bounce 0.5s infinite alternate;
 }
 
 /* Custom Styles */
@@ -55,6 +70,36 @@ main > .tagline {
   font-weight: 100;
 }
 
-.icons-social i {
-  padding: 10px;
+.profile-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid black;
+}
+
+.quote {
+  font-style: italic;
+  text-align: center;
+}
+
+.navigation {
+  margin-top: 20px;
+}
+
+.nav-link {
+  margin: 0 10px;
+  text-decoration: none;
+  color: black;
+  font-size: 1.2em;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
 }
