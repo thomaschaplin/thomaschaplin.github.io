@@ -1,44 +1,159 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-GB">
 
 <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Thomas Chaplin | Sr. Systems Engineer</title>
+    <title>Thomas Chaplin · Sr. Systems Engineer</title>
+    <meta name="description" content="Thomas Chaplin is a Senior Systems Engineer. About, experience and projects.">
 
-    <link rel="icon" href="favicon.ico" type="image/png" />
+    <meta property="og:title" content="Thomas Chaplin · Sr. Systems Engineer">
+    <meta property="og:description" content="About, experience and projects.">
+    <meta property="og:url" content="https://www.thomaschaplin.me/">
+    <meta property="og:image" content="https://www.thomaschaplin.me/assets/profile.png">
+    <meta property="og:type" content="website">
 
-    <link href="https://fonts.googleapis.com/css?family=Reem+Kufi|Roboto:300" rel="stylesheet">
-    <link href="https://use.fontawesome.com/releases/v6.1.1/css/all.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/reset.css">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="css/themes/yellow-black.css">
 </head>
 
 <body>
+    <a class="skip" href="#about">Skip to content</a>
+
+    <header class="site-header">
+        <a class="wordmark" href="/">tc<span>.</span></a>
+        <nav aria-label="Sections">
+            <a href="#about">About</a>
+            <a href="#experience">Experience</a>
+            <a href="#projects">Projects</a>
+        </nav>
+    </header>
+
     <main>
-        <div class="profile-container">
-            <img class="profile-pic" src="./assets/profile.png"></img>
-        </div>
-        <div class="intro">Thomas Chaplin</div>
-        <div class="tagline">Sr. Systems Engineer</div>
-        <!-- <p class="quote">"Success - We cannot direct the wind but we can adjust the sails."</p> -->
-        <!-- <div class="navigation">
-            <a href="/" class="nav-link">Home</a>
-            <a href="/about.html" class="nav-link">About</a>
-            <a href="#" class="nav-link">Certifications</a>
-        </div> -->
-        <div class="icons-social">
-            <a target="_blank" href="https://github.com/thomaschaplin"><i class="fab fa-github"></i></a>
-            <a target="_blank" href="https://www.linkedin.com/in/thomaschaplin"><i class="fab fa-linkedin"></i></a>
-            <!-- <a target="_blank" href="https://www.npmjs.com/~thomaschaplin"><i class="fab fa-npm"></i></a> -->
-            <!-- <a target="_blank" href="https://twitter.com/ThomasChaplin_"><i class="fab fa-x-twitter"></i></a> -->
-            <!-- <a target="_blank" href="https://thomaschaplin.medium.com"><i class="fab fa-medium"></i></a> -->
-            <a target="_blank" href="https://www.youtube.com/channel/UCgrsESnTqiMw37T-Xh5FW-g"><i class="fab fa-youtube"></i></a>
-        </div>
+        <section class="hero">
+            <div class="hero-text">
+                <p class="eyebrow">Sr. Systems Engineer · <span class="ph">Location</span></p>
+                <h1>Thomas <mark>Chaplin</mark></h1>
+                <p class="lede"><span class="ph">One sentence on what you do, e.g. "I build and run the systems
+                        that keep [company] online, and tinker with Rust and home automation on the side."</span></p>
+                <ul class="links">
+                    <li><a href="https://github.com/thomaschaplin">GitHub</a></li>
+                    <li><a href="https://www.linkedin.com/in/thomaschaplin">LinkedIn</a></li>
+                    <li><a href="https://www.youtube.com/channel/UCgrsESnTqiMw37T-Xh5FW-g">YouTube</a></li>
+                    <li><a href="mailto:you@example.com"><span class="ph">Email</span></a></li>
+                </ul>
+            </div>
+            <figure class="portrait">
+                <img src="assets/profile.png" width="480" height="720" alt="Portrait of Thomas Chaplin">
+            </figure>
+        </section>
+
+        <section id="about" class="section">
+            <h2 class="section-label"><span>01</span> About</h2>
+            <div class="section-body prose">
+                <p><span class="ph">Opening paragraph: who you are and what you work on day to day. Mention the
+                        kind of systems you look after, the scale, and what you enjoy about it.</span></p>
+                <p><span class="ph">Second paragraph: how you got here. Your path into engineering, anything
+                        that shaped how you work.</span></p>
+                <p><span class="ph">Outside work: cooking, videos, side projects, whatever you'd like people to
+                        know.</span></p>
+            </div>
+        </section>
+
+        <section id="experience" class="section">
+            <h2 class="section-label"><span>02</span> Experience</h2>
+            <div class="section-body">
+                <ol class="timeline">
+                    <li>
+                        <p class="when"><span class="ph">2023 – Now</span></p>
+                        <div>
+                            <h3>Senior Systems Engineer · <span class="ph">Company</span></h3>
+                            <p><span class="ph">One or two lines on what you own and what you've shipped.</span></p>
+                        </div>
+                    </li>
+                    <li>
+                        <p class="when"><span class="ph">2020 – 2023</span></p>
+                        <div>
+                            <h3><span class="ph">Role · Company</span></h3>
+                            <p><span class="ph">One or two lines on the role.</span></p>
+                        </div>
+                    </li>
+                    <li>
+                        <p class="when"><span class="ph">2017 – 2020</span></p>
+                        <div>
+                            <h3><span class="ph">Role · Company</span></h3>
+                            <p><span class="ph">One or two lines on the role.</span></p>
+                        </div>
+                    </li>
+                </ol>
+
+                <h3 class="subhead">Certifications</h3>
+                <ul class="certs">
+                    <li><span class="ph">Certification name</span> <span class="meta"><span class="ph">Issuer · Year</span></span></li>
+                    <li><span class="ph">Certification name</span> <span class="meta"><span class="ph">Issuer · Year</span></span></li>
+                </ul>
+
+                <h3 class="subhead">Skills</h3>
+                <ul class="tags">
+                    <li class="ph">Skill</li>
+                    <li class="ph">Skill</li>
+                    <li class="ph">Skill</li>
+                    <li class="ph">Skill</li>
+                    <li class="ph">Skill</li>
+                </ul>
+
+                <a class="button" href="#"><span class="ph">Download CV (PDF)</span></a>
+            </div>
+        </section>
+
+        <section id="projects" class="section">
+            <h2 class="section-label"><span>03</span> Projects</h2>
+            <div class="section-body">
+                <ul class="projects">
+                    <li>
+                        <a href="https://github.com/thomaschaplin">
+                            <h3><span class="ph">project-name</span></h3>
+                            <p><span class="ph">What it does in one sentence.</span></p>
+                            <p class="meta"><span class="ph">Rust</span></p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/thomaschaplin">
+                            <h3><span class="ph">project-name</span></h3>
+                            <p><span class="ph">What it does in one sentence.</span></p>
+                            <p class="meta"><span class="ph">TypeScript</span></p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/thomaschaplin">
+                            <h3><span class="ph">project-name</span></h3>
+                            <p><span class="ph">What it does in one sentence.</span></p>
+                            <p class="meta"><span class="ph">Go</span></p>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/thomaschaplin">
+                            <h3><span class="ph">project-name</span></h3>
+                            <p><span class="ph">What it does in one sentence.</span></p>
+                            <p class="meta"><span class="ph">Shell</span></p>
+                        </a>
+                    </li>
+                </ul>
+                <p class="more"><a href="https://github.com/thomaschaplin?tab=repositories">All repositories on GitHub</a></p>
+            </div>
+        </section>
     </main>
+
+    <footer class="site-footer">
+        <p>© <span id="year">2026</span> Thomas Chaplin</p>
+        <p><a href="#">Back to top ↑</a></p>
+    </footer>
+
+    <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
 </body>
 
 </html>
